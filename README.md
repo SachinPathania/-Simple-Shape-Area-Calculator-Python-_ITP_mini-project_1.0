@@ -1,2 +1,2 @@
 # Simple-Shape-Area-Calculator-Python-_ITP_Mini Project 1.0
-Write a program to calculate area of shapes. Your program should be capable of calculating the area of a square, rectangle, triangle and a circle. The user should be presented with options to select the shape. Based on which shape is chosen by the user, the program should ask for the appropriate input and print the resulting area on the screen.
+This is my first project after learning the basics of Python. Here, I have created a user input way of selecting any of the shapes (Square,Rectangle,Triangle,Circle) and the code will output the area after asking you for a few details regarding the shape.
